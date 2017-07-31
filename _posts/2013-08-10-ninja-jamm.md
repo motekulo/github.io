@@ -6,7 +6,7 @@ categories: android app review
 ---
 This [remixing/editing](http://ninjajamm.com/) app looks like heaps of fun. [Create digital](http://createdigitalmusic.com/2013/04/beyond-listening-ninja-tune-launches-ninja-jamm-opens-artists-to-mobile-remix-cdm-exclusive/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+createdigitalmusic+(createdigitalmusic.com)) has an excellent description and discussion about it.
 
-[Video review](https://youtu.be/x6euU0v17g4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6euU0v17g4" frameborder="0" allowfullscreen></iframe>
 
 It uses [pdlib](http://gitorious.org/pdlib), an open source library allowing developers to incorporate patches from [Puredata](http://puredata.info/) into their apps. Check out this Pd patch screenshot from the app:
 ![pd patch screenshot](/assets/np-PD-patch-of-Ninja-Jamm-code-audio-engine-300x150.gif)
