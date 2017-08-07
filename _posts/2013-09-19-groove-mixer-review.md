@@ -5,7 +5,7 @@ date: 2013-09-19 09:00:00 +1100
 categories: review android
 ---
 
-![Groovemixer](https://play.google.com/store/apps/details?id=com.flexbyte.groovemixer&hl=en) is the second  result on Google Play when searching for “drum machine”. It has had over 500 000 downloads, and has a great rating of 4.2. It is Ad supported with the option to buy a version with no ads. The app starts with a splash screen with details for forthcoming releases, and a link to a [tutorial website](http://groovemixer.com/tutorials/).
+[Groovemixer](https://play.google.com/store/apps/details?id=com.flexbyte.groovemixer&hl=en) is the second  result on Google Play when searching for “drum machine”. It has had over 500 000 downloads, and has a great rating of 4.2. It is Ad supported with the option to buy a version with no ads. The app starts with a splash screen with details for forthcoming releases, and a link to a [tutorial website](http://groovemixer.com/tutorials/).
 
 You need to load up samples before making any beats, which might put off the very impatient but the samples are good and it stays in time. It has an effective sequencer, allowing complex combinations of beats to be built up.
 
