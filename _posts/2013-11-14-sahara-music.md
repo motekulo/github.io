@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saharan music and mobile phones
-date: 2013-11-04
+date: 2013-11-14
 ---
 
 Christopher Kirkley has a fascinating [site](http://sahelsounds.com/) called Sahelsounds dealing with music in Saharan Africa. The [about](http://sahelsounds.com/about/) page describes his work as examining:
