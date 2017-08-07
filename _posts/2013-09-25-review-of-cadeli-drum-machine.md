@@ -5,7 +5,6 @@ date: 2013-09-25 20:18:00 +1100
 categories: android review
 ---
 
-
 To date, this app has had over 100 000 downloads and is in the top ten in a Google Play search for “drum machine”. There is also a paid version that allows saving and exporting. The average user rating is 3.4 and was last updated Sept 12 2013 so was in active development at time of this review.
 
 The developer uses the Google Play beta testing groups system which is a nice touch to keep in contact with enthusiastic users, and there is [gui library](https://github.com/cadeli/CdlUI) published by the developer under an open source license that others  can use. . The [user website](http://cadeli-drummachine.blogspot.com.au/p/user-guide.html?m=1) has extensive help.
