@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Radar: The best Android music making apps in the world today
+title: Music Radar - The best Android music making apps in the world today
 date: 2013-11-04
 categories: android
 ---
